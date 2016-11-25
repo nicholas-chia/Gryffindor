@@ -5,7 +5,7 @@
   connection: local
   gather_facts: False
 
-#  tasks:
+  tasks:
 #  - name: Launch webserver instances
 #    ec2:
 #      access_key: "{{ ec2_access_key }}"
